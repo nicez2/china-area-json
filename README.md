@@ -5,13 +5,6 @@
 #### area-full.json 全国省市区编码 json
 
 
-# 在线引用地址
- [http://116.62.114.15/china-area-api/city](http://116.62.114.15/china-area-api/city)
-
- [http://116.62.114.15/china-area-api/province](http://116.62.114.15/china-area-api/province)
-
-  [http://116.62.114.15/china-area-api/full](http://116.62.114.15/china-area-api/full)
-
       2020年11月行政区划代码
     注：1、台湾省、香港特别行政区和澳门特别行政区暂缺地市和区县信息。
 ````javascript
@@ -31,5 +24,6 @@
 .
 
 ````
-## 数据来源 民政部 
-# 更新时间  2020年11月
+## 数据来源 民政部  
+# 更新时间  2021-05-10
+
